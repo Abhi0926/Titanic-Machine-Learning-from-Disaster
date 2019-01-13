@@ -3,6 +3,8 @@ Machine Learning From Disaster is one of the most popular Kaggle Competition for
 
 We'll begin with Data Munging and our goal would be understand what the variables mean, deal with missing values and erroneous data. We'd do some visualization to get a feel of what's going on.
 
+Before proceeding, here's description of variables from the data set:
+
 VARIABLE DESCRIPTIONS:
 
 survival Survival
@@ -41,3 +43,7 @@ nephews/nieces, aunts/uncles, and in-laws. Some children travelled
 only with a nanny, therefore parch=0 for them. As well, some
 travelled with very close friends or neighbors in a village, however,
 the definitions do not support such relations.
+
+Let's get started with Exploratory Data Analysis:
+
+
